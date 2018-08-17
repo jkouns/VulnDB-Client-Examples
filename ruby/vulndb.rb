@@ -1,5 +1,7 @@
 class Vulndb
-
+  
+# Note that this sample code uses OAuth 1
+  
   def self.checkvuldb(cve_id)
       cve_id = cve_id.gsub(/(cve\-)/i,"")
       consumer_key = ""
