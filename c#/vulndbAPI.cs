@@ -8,6 +8,8 @@ using System.Net;
 using System.Text;
 using System.Windows.Forms;
 
+/// Example code uses OAuth 1
+
 namespace CMS_Auditor
 {
     class vulndbAPI
