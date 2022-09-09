@@ -1,9 +1,9 @@
 <?php
 	/** 
-	 * 	// Required the oAuth library. 	// http://oauth.googlecode.com/svn/code/php/OAuth.php
+	 * 	// Required the oAuth library. 	// https://code.google.com/archive/p/oauth/
 	 * @package VulnDB PHP API Wrapper
 	 * @class VulnDB
-	 * @desc easy php wrapper for the vulndb run by Cyber Risk Analytics https://cyberriskanalytics.com/
+	 * @desc Easy PHP wrapper using OAuth 1 for the vulndb run by Cyber Risk Analytics https://cyberriskanalytics.com/
 	 * @info Requires API accessible account on VulnDB https://vulndb.cyberriskanalytics.com
 	 * @info Full API Information can be found here: https://vulndb.cyberriskanalytics.com/documentation/api 
 	 * @version 1
