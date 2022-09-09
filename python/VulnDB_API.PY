@@ -7,6 +7,11 @@ import codecs
 import locale
 from datetime import date, timedelta
 
+"""
+VulnDB Client examples are provided “as-is” with no warranty or support available.  
+They are meant to help Risk Based Security customers with examples of VulnDB API usage.
+"""
+
 today = date.today()
 yesterday = date.today() - timedelta(1)
 
