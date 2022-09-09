@@ -5,6 +5,9 @@
  * @desc example for usage of php api wrapper for vulndb
  * @version 1
  * @apiVersion 1
+ * 
+ * VulnDB Client examples are provided “as-is” with no warranty or support available.  
+ * They are meant to help Risk Based Security customers with examples of VulnDB API usage.
  **/
 include ('VulnDB.class.php');
 
