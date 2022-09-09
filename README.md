@@ -11,7 +11,7 @@ If you are interested in a subscription to VulnDB, please contact sales@riskbase
 ## Disclaimer ##
 
 VulnDB Client examples are provided “as-is” with no warranty or support available.  
-They are meant to help Risk Based Security customers with their usage of VulnDB.
+They are meant to help Risk Based Security customers with examples of VulnDB API usage.
 
 ## Languages ##
 
